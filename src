@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Objetivos de Desenvolvimento Sustentável - ONU 2030</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: white;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #f8b8d0; /* Rosa claro */
+            padding: 20px;
+            text-align: center;
+        }
+
+        h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+
+        nav ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        nav ul li {
+            display: inline;
+            margin: 0 15px;
+        }
+
+        nav ul li a {
+            text-decoration: none;
+            color: #333;
+        }
+
+        nav ul li a:hover {
+            text-decoration: underline;
+        }
+
+        main {
+            padding: 20px;
+        }
+
+        h2 {
+            color: #f08c8e; /* Rosa mais escuro */
+        }
+
+        ol {
+            padding-left: 20px;
+        }
+
+        footer {
+            background-color: #f8b8d0; /* Rosa claro */
+            text-align: center;
+            padding: 10px;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+
+        footer p {
+            margin: 5px 0;
+        }
+
+        footer a {
+            color: #333;
+            text-decoration: none;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+
+        .ods-item {
+            margin-bottom: 30px;
+        }
+
+        .ods-item p {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Objetivos de Desenvolvimento Sustentável (ODS) da ONU para 2030</h1>
+        <nav>
+            <ul>
+                <li><a href="https://www.mds.gov.br/webarquivos/publicacao/Brasil_Amigo_Pesso_Idosa/Agenda2030.pdf" target="_blank">Transformando Nosso Mundo: A Agenda 2030</a></li>
+                <li><a href="https://portal.stf.jus.br/hotsites/agenda-2030/" target="_blank">Agenda 2030 no STF</a></li>
+                <li><a href="https://www.pactoglobal.org.br/ods-e-agenda-2030/" target="_blank">ODS e Agenda 2030</a></li>
+                <li><a href="https://febrace.org.br/" target="_blank">17 ODS da ONU</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Sobre os ODS</h2>
+            <p>Os Objetivos de Desenvolvimento Sustentável (ODS) são uma chamada universal para ação para acabar com a pobreza, proteger o planeta e garantir que todos desfrutem de paz e prosperidade até 2030.</p>
+        </section>
+
+        <section>
+            <h2>Os 17 ODS</h2>
+            <ol>
+                <li class="ods-item">
+                    <strong>Erradicação da Pobreza:</strong>
+                    <p>O primeiro ODS visa acabar com a pobreza em todas as suas formas, em todos os lugares. A pobreza extrema, que afeta mais de 700 milhões de pessoas, é uma questão urgente que requer ação imediata.</p>
+                    <p>Para alcançar este objetivo, é essencial implementar políticas que garantam a inclusão social e econômica, promovendo oportunidades de emprego e acesso a serviços essenciais como saúde e educação.</p>
+                    <p>Além disso, o combate à pobreza deve ser acompanhado de esforços para criar resiliência em comunidades vulneráveis, garantindo que todas as pessoas tenham a chance de prosperar.</p>
+                </li>
+                <li class="ods-item">
+                    <strong>Fome Zero:</strong>
+                    <p>O segundo ODS se concentra em acabar com a fome, alcançar a segurança alimentar e promover a agricultura sustentável. A fome é uma realidade para muitas pessoas, afetando o desenvolvimento humano e social.</p>
+                    <p>A agricultura sustentável não apenas ajuda a alimentar a população crescente, mas também protege os recursos naturais, contribuindo para a saúde do planeta.</p>
+                    <p>Promover a educação alimentar e o acesso a mercados pode aumentar a segurança alimentar e reduzir a desnutrição em diversas comunidades.</p>
+                </li>
+                <li class="ods-item">
+                    <strong>Saúde e Bem-Estar:</strong>
+                    <p>O terceiro ODS busca garantir uma vida saudável e promover o bem-estar para todos em todas as idades. A saúde é fundamental para o desenvolvimento e a qualidade de vida.</p>
+                    <p>Isso envolve o acesso a serviços de saúde de qualidade, a promoção de estilos de vida saudáveis e a prevenção de doenças. A saúde mental e o bem-estar também são aspectos cruciais desse objetivo.</p>
+                    <p>Um sistema de saúde forte e acessível é essencial para garantir que todos possam viver plenamente e alcançar seu potencial.</p>
+                </li>
+                <li class="ods-item">
+                    <strong>Educação de Qualidade:</strong>
+                    <p>O quarto ODS visa garantir educação inclusiva, equitativa e de qualidade, promovendo oportunidades de aprendizado ao longo da vida para todos. A educação é um direito humano fundamental e um motor de desenvolvimento sustentável.</p>
+                    <p>Investir em educação de qualidade não apenas empodera indivíduos, mas também contribui para a economia, reduzindo desigualdades sociais e promovendo sociedades mais coesas.</p>
+                    <p>A educação deve ser acessível a todos, independentemente de gênero, origem ou situação socioeconômica.</p>
+                </li>
+                <li class="ods-item">
+                    <strong>Igualdade de Gênero:</strong>
+                    <p>O quinto ODS busca alcançar a igualdade de gênero e empoderar todas as mulheres e meninas. Isso inclui acabar com a discriminação, a violência e promover a igualdade de oportunidades.</p>
+                    <p>Empoderar mulheres e meninas não é apenas uma questão de direitos humanos, mas também é vital para o desenvolvimento sustentável e o progresso econômico.</p>
+                    <p>Quando as mulheres são empoderadas, elas podem contribuir significativamente para suas comunidades e economias.</p>
+                </li>
+                <li class="ods-item">
+                    <strong>Água Potável e Saneamento:</strong>
+                    <p>O sexto ODS garante a disponibilidade e manejo sustentável da água e saneamento para todos. A água é um recurso essencial para a vida, mas bilhões de pessoas ainda carecem de acesso a água potável e saneamento básico.</p>
+                    <p>Garantir o acesso à água e ao saneamento é fundamental para a saúde pública, reduzindo doenças e melhorando a qualidade de vida.</p>
+                    <p>Investir em infraestrutura de água e saneamento é crucial para alcançar o desenvolvimento sustentável.</p>
+                </li>
+                <li class="ods-item">
+                    <strong>Energia Acessível e Limpa:</strong>
+                    <p>O sétimo ODS busca garantir acesso a energia acessível, confiável, sustentável e moderna para todos. A energia é vital para o desenvolvimento econômico e social.</p>
+                    <p>Promover fontes de energia renováveis e acessíveis é essencial para combater as mudanças climáticas e garantir um futuro sustentável.</p>
+                    <p>Aumentar o acesso à energia não apenas melhora a qualidade de vida, mas também promove oportunidades econômicas.</p>
+                </li>
+                <li class="ods-item">
+                    <strong>Trabalho Decente e Crescimento Econômico:</strong>
+                    <p>O oitavo ODS promove o crescimento econômico sustentado, inclusivo e sustentável, além de garantir emprego pleno e produtivo. O trabalho decente é fundamental para o bem-estar humano e a prosperidade econômica.</p>
+                    <p>Isso envolve a criação de oportunidades de emprego, promoção de direitos trabalhistas e acesso a condições de trabalho seguras e justas.</p>
+                    <p>Crescimento econômico inclusivo contribui para a redução da pobreza e a promoção da igualdade.</p>
+                </li>
+                <li class="ods-item">
+                    <strong>Indústria, Inovação e Infraestrutura:</strong>
+                    <p>O nono ODS busca construir infraestruturas resilientes, promover a industrialização inclusiva e sustentável e fomentar a inovação. Infraestruturas adequadas são fundamentais para o desenvolvimento econômico e social.</p>
+                    <p>Investir em inovação e tecnologia pode impulsionar a produtividade e promover a sustentabilidade.</p>
+                    <p>Desenvolver indústrias sustentáveis ajuda a criar empregos e aumentar a competitividade econômica.</p>
+                </li>
+                <li class="ods-item">
+                    <strong>Redução das Desigualdades:</strong>
+                    <p>O décimo ODS visa reduzir a desigualdade dentro dos países e entre eles. A desigualdade é um dos maiores desafios do desenvolvimento sustentável e pode minar o progresso econômico e social.</p>
+                    <p>Promover políticas que garantam a inclusão e a equidade é crucial para criar sociedades mais justas.</p>
+                    <p>A redução das desigualdades não apenas melhora as condições de vida, mas também promove a paz e a estabilidade social.</p>
+                </li>
+                <li class="ods-item">
+                    <strong>Cidades e Comunidades Sustentáveis:</strong>
+                    <p>O décimo primeiro ODS busca tornar as cidades e os assentamentos humanos inclusivos, seguros, resilientes e sustentáveis. Com o aumento da urbanização, garantir a sustentabilidade das cidades é essencial para o futuro.</p>
+                    <p>Promover o acesso a transporte, habitação e serviços básicos é vital para a qualidade de vida nas áreas urbanas.</p>
+                    <p>Cidades sustentáveis contribuem para a saúde ambiental e o bem-estar dos cidadãos.</p>
+                </li>
+                <li class="ods-item">
+                    <strong>Consumo e Produção Responsáveis:</strong>
+                    <p>O décimo segundo ODS busca garantir padrões de consumo e produção sustentáveis. O consumo excessivo e a produção insustentável têm consequências sérias para o meio ambiente e os recursos naturais.</p>
+                    <p>Promover a eficiência dos recursos e a gestão sustentável é crucial para reduzir o impacto ambiental.</p>
+                    <p>A educação sobre consumo responsável e práticas sustentáveis pode ajudar a criar uma cultura de responsabilidade ambiental.</p>
+                </li>
+                <li class="ods-item">
+                    <strong>Ação Contra a Mudança Global do Clima:</strong>
+                    <p>O décimo terceiro ODS se concentra em tomar medidas urgentes para combater a mudança climática e seus impactos. As mudanças climáticas representam uma das maiores ameaças ao desenvolvimento sustentável.</p>
+                    <p>Promover a conscientização e a ação para reduzir emissões de carbono e aumentar a resiliência é fundamental.</p>
+                    <p>Cooperação internacional e inovação são essenciais para enfrentar esse desafio global.</p>
+                </li>
+                <li class="ods-item">
+                    <strong>Vida na Água:</strong>
+                    <p>O décimo quarto ODS visa conservar e usar de forma sustentável os oceanos, os mares e os recursos marinhos para o desenvolvimento sustentável. Os oceanos são essenciais para a vida na Terra e para a economia global.</p>
+                    <p>Proteger os ecossistemas marinhos e combater a poluição marinha são medidas cruciais para a saúde dos oceanos.</p>
+                    <p>Promover a pesca sustentável e a conservação marinha ajuda a garantir a biodiversidade e os meios de subsistência das comunidades costeiras.</p>
+                </li>
+                <li class="ods-item">
+                    <strong>Vida Terrestre:</strong>
+                    <p>O décimo quinto ODS se concentra na proteção, restauração e promoção do uso sustentável dos ecossistemas terrestres, gerenciando de forma sustentável as florestas, combatendo a desertificação e interrompendo a degradação da terra e a perda de biodiversidade.</p>
+                    <p>As florestas e os ecossistemas terrestres são essenciais para o equilíbrio do planeta, contribuindo para a luta contra as mudanças climáticas e a perda de habitat.</p>
+                    <p>A preservação da biodiversidade é vital para garantir um futuro sustentável para todos os seres vivos.</p>
+                </li>
+                <li class="ods-item">
+                    <strong>Paz, Justiça e Instituições Eficazes:</strong>
+                    <p>O décimo sexto ODS busca promover sociedades pacíficas e inclusivas, garantir o acesso à justiça para todos e construir instituições eficazes, responsáveis e inclusivas em todos os níveis.</p>
+                    <p>A paz e a justiça são fundamentais para o desenvolvimento sustentável e a coesão social.</p>
+                    <p>Fortalecer as instituições e promover a participação cívica é essencial para garantir a governança democrática e a proteção dos direitos humanos.</p>
+                </li>
+                <li class="ods-item">
+                    <strong>Parcerias e Meios de Implementação:</strong>
+                    <p>O décimo sétimo ODS busca fortalecer os meios de implementação e revitalizar a parceria global para o desenvolvimento sustentável. A cooperação internacional é crucial para alcançar todos os ODS.</p>
+                    <p>Isso inclui o fortalecimento das capacidades, a promoção de investimentos e a transferência de tecnologia.</p>
+                    <p>Construir parcerias sólidas entre governos, setor privado e sociedade civil é essencial para enfrentar os desafios globais e promover o desenvolvimento sustentável.</p>
+                </li>
+            </ol>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Alice Moura Alves | <a href="https://www.un.org/sustainabledevelopment/" target="_blank">Fonte: ONU</a></p>
+    </footer>
+</body>
+</html>
