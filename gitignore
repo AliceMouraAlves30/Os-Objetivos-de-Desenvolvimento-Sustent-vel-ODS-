@@ -1,0 +1,25 @@
+# Logs
+*.log
+
+# Diretórios de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos gerados pelo editor
+.vscode/
+.idea/
+
+# Node.js (caso use ferramentas como npm)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Arquivos de compilação (caso utilize pré-processadores CSS, como SASS/LESS)
+*.css.map
+*.sass-cache/
+
+# Arquivos temporários
+*.tmp
+*.swp
+*.bak
+*.old
