@@ -1,0 +1,32 @@
+Este é um projeto básico de HTML inicial que você pode desenvolver como quiser. Não precisa salvar. Enquanto você desenvolve seu site, suas alterações acontecerão ✨ imediatamente na janela de visualização. À esquerda, você verá os arquivos que compõem seu site, incluindo HTML, JavaScript e CSS. Você pode carregar ativos como imagens ou áudio em assets. O resto depende de você e da sua imaginação. 🦄
+
+Última atualização: 28 de fevereiro de 2023
+
+O que há neste projeto?
+← README.md: Este é o arquivo onde você pode contar às pessoas o que seu site legal faz e como você o construiu.
+
+← index.html: Esta é a página principal do seu site. O HTML define a estrutura e o conteúdo da página usando elementos . Você verá referências no HTML aos arquivos JS e CSS. Tente clicar na imagem no centro da página!
+
+← style.css: Arquivos CSS adicionam regras de estilo ao seu conteúdo. O CSS aplica estilos aos elementos na sua página HTML. As regras de estilo também fazem a imagem se mover quando você clica nela.
+
+← script.js: Se você estiver se sentindo chique, pode adicionar interatividade ao seu site com JavaScript. O código no arquivo JavaScript é executado quando a página carrega, e quando o visitante clica no botão, você pode adicionar usando o código no TODO.
+
+Abra cada arquivo e confira os comentários (em cinza) para mais informações.
+
+Experimente isto a seguir 🏗️
+Dê uma olhada nos TODO.mdpróximos passos que você pode experimentar no seu novo site!
+
+Quer uma versão mínima deste projeto para construir seu próprio site? Confira Blank Website !
+
+Pronto para compartilhar seu site?
+Adicione essas meta tags para SEO e compartilhamento social entre suas <head></head>tags de página, alterando os valores do seu site:
+
+<link rel="canonical" href="https://glitch-hello-website.glitch.me/" />
+<meta name="description" content="A simple website, built with Glitch. Remix it to get your own."/>
+<meta name="robots" content="index,follow" />
+<meta property="og:title" content="Hello World!" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://glitch-hello-website.glitch.me/" />
+<meta property="og:description" content="A simple website, built with Glitch. Remix it to get your own."/>
+<meta property="og:image" content="https://cdn.glitch.com/605e2a51-d45f-4d87-a285-9410ad350515%2Fhello-website-social.png?v=1616712748147"/>
+<meta name="twitter:card" content="summary" />
